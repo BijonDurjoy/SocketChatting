@@ -1,5 +1,5 @@
 # SocketChatting
-
+![Views](https://hits.dwyl.com/BijonDurjoy/SocketChatting.svg)
 ![License](https://img.shields.io/github/license/BijonDurjoy/SocketChatting)
 ![Issues](https://img.shields.io/github/issues/BijonDurjoy/SocketChatting)
 ![Stars](https://img.shields.io/github/stars/BijonDurjoy/SocketChatting)
