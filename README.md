@@ -33,11 +33,11 @@ SocketChatting is a real-time chat application built using socket programming. I
     cd SocketChatting
     ```
 
-2. Run the Server
+2. Run the Server.java
 
-3. Run Client.
+3. Run Client.java
 
-4. Edit Another application And run in under Client
+4. Edit Another application And run in under Client.java
 
 5. Send message from Client 1 to Client 2
 
@@ -64,5 +64,4 @@ For any questions or suggestions, feel free to contact me:
 - GitHub: [BijonDurjoy](https://github.com/BijonDurjoy)
 - Email: [bijon176193@gmail.com](mailto:bijon176193@gmail.com)
 
----
 
